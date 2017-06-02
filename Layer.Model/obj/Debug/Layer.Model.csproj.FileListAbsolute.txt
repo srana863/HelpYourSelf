@@ -1,0 +1,11 @@
+F:\Projects\HelpYourSelf\Model\bin\Debug\Layer.Model.dll
+F:\Projects\HelpYourSelf\Model\bin\Debug\Layer.Model.pdb
+F:\Projects\HelpYourSelf\Model\obj\Debug\Layer.Model.dll
+F:\Projects\HelpYourSelf\Model\obj\Debug\Layer.Model.pdb
+F:\Projects\HelpYourSelf\Model\obj\Debug\Layer.Model.csprojResolveAssemblyReference.cache
+F:\Projects\HelpYourSelf\Model\bin\Debug\QueryGenerator.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Model\bin\Debug\Layer.Model.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Model\bin\Debug\Layer.Model.pdb
+F:\Projects\Git Hub\HelpYourself\Layer.Model\bin\Debug\QueryGenerator.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Model\obj\Debug\Layer.Model.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Model\obj\Debug\Layer.Model.pdb

@@ -1,0 +1,18 @@
+F:\Projects\HelpYourSelf\Layer.Data\bin\Debug\Layer.Data.dll
+F:\Projects\HelpYourSelf\Layer.Data\bin\Debug\Layer.Data.pdb
+F:\Projects\HelpYourSelf\Layer.Data\obj\Debug\Layer.Data.csprojResolveAssemblyReference.cache
+F:\Projects\HelpYourSelf\Layer.Data\obj\Debug\Layer.Data.dll
+F:\Projects\HelpYourSelf\Layer.Data\obj\Debug\Layer.Data.pdb
+F:\Projects\HelpYourSelf\Layer.Data\bin\Debug\Layer.Model.dll
+F:\Projects\HelpYourSelf\Layer.Data\bin\Debug\Layer.Model.pdb
+F:\Projects\HelpYourSelf\Layer.Data\bin\Debug\Dapper.dll
+F:\Projects\HelpYourSelf\Layer.Data\bin\Debug\QueryGenerator.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Data\obj\Debug\Layer.Data.csprojResolveAssemblyReference.cache
+F:\Projects\Git Hub\HelpYourself\Layer.Data\obj\Debug\Layer.Data.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Data\obj\Debug\Layer.Data.pdb
+F:\Projects\Git Hub\HelpYourself\Layer.Data\bin\Debug\Layer.Data.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Data\bin\Debug\Layer.Data.pdb
+F:\Projects\Git Hub\HelpYourself\Layer.Data\bin\Debug\Dapper.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Data\bin\Debug\Layer.Model.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Data\bin\Debug\QueryGenerator.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Data\bin\Debug\Layer.Model.pdb

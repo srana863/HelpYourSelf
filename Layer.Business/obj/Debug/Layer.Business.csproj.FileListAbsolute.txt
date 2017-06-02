@@ -1,0 +1,22 @@
+F:\Projects\HelpYourSelf\BusinessLayer\obj\Debug\Layer.Business.csprojResolveAssemblyReference.cache
+F:\Projects\HelpYourSelf\BusinessLayer\bin\Debug\Layer.Business.dll
+F:\Projects\HelpYourSelf\BusinessLayer\bin\Debug\Layer.Business.pdb
+F:\Projects\HelpYourSelf\BusinessLayer\bin\Debug\Layer.Model.dll
+F:\Projects\HelpYourSelf\BusinessLayer\bin\Debug\Layer.Model.pdb
+F:\Projects\HelpYourSelf\BusinessLayer\obj\Debug\Layer.Business.dll
+F:\Projects\HelpYourSelf\BusinessLayer\obj\Debug\Layer.Business.pdb
+F:\Projects\HelpYourSelf\BusinessLayer\bin\Debug\Layer.Data.dll
+F:\Projects\HelpYourSelf\BusinessLayer\bin\Debug\QueryGenerator.dll
+F:\Projects\HelpYourSelf\BusinessLayer\bin\Debug\Dapper.dll
+F:\Projects\HelpYourSelf\BusinessLayer\bin\Debug\Layer.Data.pdb
+F:\Projects\Git Hub\HelpYourself\Layer.Business\bin\Debug\Layer.Business.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Business\bin\Debug\Layer.Business.pdb
+F:\Projects\Git Hub\HelpYourself\Layer.Business\bin\Debug\Layer.Data.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Business\bin\Debug\Layer.Model.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Business\bin\Debug\QueryGenerator.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Business\bin\Debug\Dapper.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Business\bin\Debug\Layer.Data.pdb
+F:\Projects\Git Hub\HelpYourself\Layer.Business\bin\Debug\Layer.Model.pdb
+F:\Projects\Git Hub\HelpYourself\Layer.Business\obj\Debug\Layer.Business.csprojResolveAssemblyReference.cache
+F:\Projects\Git Hub\HelpYourself\Layer.Business\obj\Debug\Layer.Business.dll
+F:\Projects\Git Hub\HelpYourself\Layer.Business\obj\Debug\Layer.Business.pdb

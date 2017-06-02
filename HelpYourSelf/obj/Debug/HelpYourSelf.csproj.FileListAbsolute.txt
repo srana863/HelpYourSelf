@@ -1,0 +1,96 @@
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\csc.exe
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\vbc.exe
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\VBCSCompiler.exe
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\HelpYourSelf.dll.config
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\HelpYourSelf.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\HelpYourSelf.pdb
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Antlr3.Runtime.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Newtonsoft.Json.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.Helpers.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.Mvc.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.Optimization.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.Razor.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.WebPages.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.WebPages.Razor.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\WebGrease.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.Helpers.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.Mvc.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.Optimization.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.Razor.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.WebPages.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\System.Web.WebPages.Razor.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Antlr3.Runtime.pdb
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Newtonsoft.Json.xml
+F:\Projects\HelpYourSelf\HelpYourSelf\obj\Debug\HelpYourSelf.csprojResolveAssemblyReference.cache
+F:\Projects\HelpYourSelf\HelpYourSelf\obj\Debug\HelpYourSelf.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\obj\Debug\HelpYourSelf.pdb
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Layer.Business.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Layer.Model.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Layer.Business.pdb
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Layer.Model.pdb
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Layer.Data.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\QueryGenerator.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Dapper.dll
+F:\Projects\HelpYourSelf\HelpYourSelf\bin\Layer.Data.pdb
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\csc.exe
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\vbc.exe
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\VBCSCompiler.exe
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\HelpYourSelf.dll.config
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\HelpYourSelf.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\HelpYourSelf.pdb
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Antlr3.Runtime.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Layer.Business.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Layer.Model.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Newtonsoft.Json.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.Helpers.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.Mvc.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.Optimization.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.Razor.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.WebPages.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.WebPages.Razor.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\WebGrease.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Layer.Data.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\QueryGenerator.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Dapper.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Layer.Business.pdb
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Layer.Model.pdb
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.Helpers.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.Mvc.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.Optimization.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.Razor.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.WebPages.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\System.Web.WebPages.Razor.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Antlr3.Runtime.pdb
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Newtonsoft.Json.xml
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\bin\Layer.Data.pdb
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\obj\Debug\HelpYourSelf.csprojResolveAssemblyReference.cache
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\obj\Debug\HelpYourSelf.dll
+F:\Projects\Git Hub\HelpYourself\HelpYourSelf\obj\Debug\HelpYourSelf.pdb

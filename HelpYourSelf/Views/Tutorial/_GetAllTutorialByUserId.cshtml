@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Layer.Model.Model.Tutorial.Tutorials>
+
+<div class="box box-primary">
+    <div class="box-header with-border">
+        <h3 class="box-title">Your Tutorials</h3>
+    </div>
+    <div class="box-body">
+        @if (Model.Any() && Model != null)
+        {
+            <div class="table table-responsive">
+                <table id="tblTutorialsByUser" class="table table-bordered table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Total View</th>
+                            <th>Worked</th>
+                            <th>Liked</th>
+                            <th>Avg. Rating</th>
+                            <th>Is Reviewd</th>
+                            <th>Edit</th>
+                            <th>Delete</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var v in Model)
+                        {
+                            <tr>
+                                <td>@v.Title</td>
+                                <td>@v.TotalView</td>
+                                <td>@v.TotalWorkedCount</td>
+                                <td>@v.TotalLikeCount</td>
+                                <td>@v.AvgRating</td>
+                                @if (Convert.ToBoolean(v.IsReviewd)) {
+                                    <td><input type="checkbox" class="flat-red" checked></td>
+                                }
+                                else
+                                {
+                                    <td><input type="checkbox" class="flat-red"></td>
+                                }
+
+
+
+                                <td>
+                                    <a data-id="@v.TutorialId" class="btn btn-info btn-xs tutorialEdit" href="javascript:;"><i class="fa fa-edit"></i> Edit</a>
+                                </td>
+                                <td>
+                                    <a data-id="@v.TutorialId" class="btn btn-danger btn-xs tutorialDelete" href="javascript:;"><i class="fa fa-trash-o"></i> Delete</a>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <div>No Tutorial Found..</div>
+        }
+    </div>
+</div>
+    <script>
+        $(document).ready(function () {
+            makePagination('tblTutorialsByUser');
+        });
+    </script>
